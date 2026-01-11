@@ -1,0 +1,41 @@
+Create a website for Trinidenks Private Logistics (Zimbabwe-based freight clearance company) with a professional and mininimalistic style using HTML, CSS, JS. Include:
+
+1. Hero Section:
+    - Carousel slider (4 screens, auto-slide + manual nav dots)
+        1. Screen 1: "Seamless Customs Clearance in Zimbabwe"
+            - Image: Airport/cargo background
+            - CTA: "Get Started"
+        2. Screen 2: "Expert Handling of ZIMRA Regulations"
+            - Image: ZIMRA-related graphic
+            - CTA: "Learn More"
+        3. Screen 3: "Track Shipments in Real-Time"
+            - Image: Tracking interface screenshot
+            - CTA: "Try It"
+        4. Screen 4: "Trusted Logistics Partners in Zimbabwe"
+            - Image: Team/cargo photo
+            - CTA: "Contact Us"
+    - Carousel has smooth transitions, nav dots, auto-slide (5s)
+    - Colors: Navy blue (#001F54) accents, Lime (#32CD32) highlights
+2. Services:
+    - Customs clearance, regulatory compliance (ZIMRA), shipment tracking, consulting
+    - Icons with hover effects (Lime #32CD32 on navy #001F54)
+3. About:
+    - Company overview (scroll-triggered fade-in)
+    - Expertise in Zimbabwe logistics
+4. Contact:
+    - Form with input animations (label float, navy blue borders)
+    - Phone, email, address + map embed (Harare, Zimbabwe)
+    - Button: Lime (#32CD32) CTA
+5. Resources/Blog:
+    - "Zimbabwe Customs Tips" with card layout
+    - Hover effects on cards (navy blue #001F54 overlay + lime accents)
+6. Responsive design
+7. Animations:
+    - Page transitions (fade)
+    - Scroll-triggered animations (elements slide/fade in)
+    - micro animations
+8. Use local references (Zimbabwe currency: ZWL, map)
+
+Tech: HTML5, CSS3, JS (vanilla). Minimal JS for interactions.
+
+Brand colors: Navy blue (#001F54), Lime (#32CD32).
